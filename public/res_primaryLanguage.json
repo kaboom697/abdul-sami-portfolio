@@ -1,0 +1,115 @@
+{
+    "basic_info": {
+      "description_header": "Assalamualaikum",
+      "description": "I am Abdul Sami, a passionate and adaptable full-stack developer with a BSc (Hons) in Software Engineering from the University of Stirling, RAK campus. My experience spans backend development, full-stack web applications, mobile app development, and AI integration, working with technologies including Django, React, Spring Boot, REST APIs, Kotlin, and Android. Having worked as a Backend Developer Intern at ValignIT Technologies and a Solutions Experience Specialist at Quantum Edge Distribution, I've collaborated on sustainability projects, research initiatives, and official competitions with prestigious organizations including American University of Sharjah, Dubai Future Labs, and the American University in the Emirates. I combine technical precision with strong problem-solving and communication skills that suit both startup and enterprise environments. As a Sharjah resident with a car and a valid driving license, I can commute reliably across all emirates and am available for full-time opportunities where I can contribute my expertise while continuing to grow professionally.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Recent Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Vroom-UAE",
+        "startDate": "2025",
+        "description": "A full-stack web application with a Django REST API backend and React.js frontend, allowing users to search, filter, and compare vehicles based on specs, performance, and emissions. Features include AI-powered recommendations, user reviews, search history, and comparison sharing. Designed for efficiency, scalability, and sustainability insights.",
+        "images": [
+          "images/portfolio/vroom-uae/vroom-uae.jpg",
+          "images/portfolio/vroom-uae/vroom-uae2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain colored",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-django-plain colored",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-react-plain colored",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-sqlite-plain colored",
+            "name": "SQlite"
+          }
+        ]
+      },
+      {
+        "title": "Emirates Robotics Competition",
+        "startDate": "2025",
+        "description": "A robotics competition organised in the prestigeous American University of Sharjah. The challenge was to Create UGV (Unmanned Ground Vehicle) robots designed to collect trash efficiently and autonomously. We designed and developed a Garbage Collecting Autonomous Robot that leverages AI to identify, differentiate and navigate towards the garbage. We worked in a team to develop and assemble the ROSMASTER R2 robot and achieved a respectable 3rd place.",
+        "images": [
+          "images/portfolio/erc/erc1.jpg",
+          "images/portfolio/erc/erc2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain colored",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Note taking App",
+        "startDate": "2025",
+        "description": "An Android application built with Kotlin in Android Studio, focused on providing a lightweight and intuitive note-taking experience. Implemented core functionalities including creating, viewing, editing, and deleting notes, with a minimalist and modern design for enhanced user usability.",
+        "images": [
+          "images/portfolio/note-app/p1.jpg",
+          "images/portfolio/note-app/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-kotlin-plain colored",
+            "name": "kotlin"
+          },
+          {
+            "class": "devicon-android-plain colored",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-androidstudio-plain colored",
+            "name": "Android Studio"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "ValignIT",
+        "title": "Back-End Developer Intern",
+        "years": "Jul-Aug 2025",
+        "mainTech": [
+        ],
+        "technologies": [
+          "REST API",
+          "Java",
+          "SpringBoot",
+          "SQL",
+          "SQlite"
+        ]
+      },
+      {
+        "company": "Quantum Edge Distribution",
+        "title": "Solutions Experience Specialist",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [  
+        ],
+        "technologies": [
+          "SQL",
+          "Quatation creation",
+          "Tender Analysis",
+          "BOQ creation"
+        ]
+      }
+    ]
+}

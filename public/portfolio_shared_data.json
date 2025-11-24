@@ -1,0 +1,108 @@
+{
+  "basic_info": {
+    "name": "Abdul Sami",
+    "titles": [
+      "Full-Stack Developer",
+      "Software Engineering Graduate",
+      "Mobile App Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/kaboom697",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/abdulsamishaik/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "Whatsapp",
+        "url": "https://wa.me/971544092704",
+        "class": "fab fa-whatsapp"
+      }
+    ],
+    "image": "abdul.jpeg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Java",
+        "class": "devicon-java-plain colored"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain colored"
+      },
+      {
+        "name": "SQL",
+        "class": "devicon-mysql-plain colored"
+      },
+      {
+        "name": "PHP",
+        "class": "devicon-php-plain colored"
+      },
+      {
+        "name": "OCaml",
+        "class": "devicon-ocaml-plain colored"
+      },
+      {
+        "name": "C",
+        "class": "devicon-c-plain colored"
+      },
+      {
+        "name": "C++",
+        "class": "devicon-cplusplus-plain colored"
+      },
+      {
+        "name": "HTML",
+        "class": "devicon-html5-plain colored"
+      },
+      {
+        "name": "CSS",
+        "class": "devicon-css3-plain colored"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain colored"
+      },
+      {
+        "name": "AutoCAD 2D/3D",
+        "class": "devicon-autocad-plain colored"
+      },
+      {
+        "name": "Microsoft Office",
+        "class": "devicon-windows8-original colored"
+      },
+      {
+        "name": "Minitab",
+        "class": "devicon-plain"
+      },
+      {
+        "name": "Orange (Data Mining)",
+        "class": "devicon-plain"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain colored"
+      },
+      {
+        "name": "MySQL",
+        "class": "devicon-mysql-plain colored"
+      },
+      {
+        "name": "SQLite",
+        "class": "devicon-sqlite-plain colored"
+      },
+      {
+        "name": "Spring Boot",
+        "class": "devicon-spring-plain colored"
+      },
+      {
+        "name": "Django",
+        "class": "devicon-django-plain colored"
+      }
+    ]
+  }
+}

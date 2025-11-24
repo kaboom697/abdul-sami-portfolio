@@ -1,0 +1,113 @@
+{
+  "basic_info": {
+    "description_header": "السلام عليكم",
+    "description": "أنا عبد السامي، مطوّر برمجيات متكامل وشغوف يتمتع بمرونة عالية، حاصل على درجة البكالوريوس (مع مرتبة الشرف) في هندسة البرمجيات من جامعة سترلينغ – فرع رأس الخيمة. يمتدّ عملي عبر تطوير الأنظمة الخلفية، وتطبيقات الويب الكاملة، وتطوير تطبيقات الهواتف المحمولة، ودمج تقنيات الذكاء الاصطناعي، باستخدام تقنيات تشمل Django وReact وSpring Boot وREST APIs ولغة Kotlin وAndroid. وخلال عملي كمطوّر خلفيات متدرّب في شركة ValignIT Technologies وكأخصائي تجربة الحلول في شركة Quantum Edge Distribution، شاركت في مشاريع استدامة ومبادرات بحثية ومسابقات رسمية بالتعاون مع جهات مرموقة مثل الجامعة الأميركية في الشارقة، ومختبرات دبي للمستقبل، والجامعة الأميركية في الإمارات. أجمع بين الدقة التقنية ومهارات قوية في حلّ المشكلات والتواصل، مما يجعلني مناسباً لبيئات الشركات الناشئة والمؤسسية على حدٍ سواء. وبصفتي مقيماً في الشارقة ولدي سيارة ورخصة قيادة سارية، فأنا قادر على التنقل بسهولة بين جميع الإمارات، وأنا متاح لفرص العمل بدوام كامل حيث يمكنني تقديم خبرتي ومواصلة تطوير مهاراتي المهنية.",
+    "section_name": {
+      "about": "نبذة عني",
+      "projects": "أحدث المشاريع",
+      "skills": "المهارات",
+      "experience": "الخبرات"
+    }
+  },
+  "projects": [
+    {
+      "title": "Vroom-UAE",
+      "startDate": "2025",
+      "description": "تطبيق ويب متكامل يتضمن واجهة خلفية مبنية باستخدام Django REST API وواجهة أمامية باستخدام React.js، يتيح للمستخدمين البحث عن المركبات وتصفيتها ومقارنتها بناءً على المواصفات والأداء والانبعاثات. تشمل ميزاته التوصيات المدعومة بالذكاء الاصطناعي، ومراجعات المستخدمين، وسجلّ البحث، ومشاركة المقارنات. تم تصميمه لتحقيق الكفاءة وقابلية التوسع وتقديم رؤى متعلقة بالاستدامة.",
+      "images": [
+        "images/portfolio/vroom-uae/vroom-uae.jpg",
+        "images/portfolio/vroom-uae/vroom-uae2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain colored",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-django-plain colored",
+          "name": "Django"
+        },
+        {
+          "class": "devicon-react-plain colored",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain colored",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-sqlite-plain colored",
+          "name": "SQlite"
+        }
+      ]
+    },
+    {
+      "title": "مسابقة الإمارات للروبوتات",
+      "startDate": "2025",
+      "description": "مسابقة روبوتات نُظِّمت في الجامعة الأميركية في الشارقة. كان التحدي يتمثل في تصميم روبوتات أرضية غير مأهولة (UGV) مخصّصة لجمع النفايات بكفاءة وبشكل ذاتي. قمنا بتصميم وتطوير روبوت مستقل لجمع النفايات يعتمد على الذكاء الاصطناعي للتعرّف على النفايات وتصنيفها والتنقل نحوها. عملنا كفريق في تطوير وتجميع روبوت ROSMASTER R2 وحققنا المركز الثالث.",
+      "images": [
+        "images/portfolio/erc/erc1.jpg",
+        "images/portfolio/erc/erc2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain colored",
+          "name": "Python"
+        }
+      ]
+    },
+    {
+      "title": "تطبيق تدوين الملاحظات",
+      "startDate": "2025",
+      "description": "تطبيق لنظام Android تم تطويره باستخدام Kotlin في Android Studio، يركز على توفير تجربة بسيطة وسلسة لتدوين الملاحظات. يتضمن وظائف أساسية مثل إنشاء الملاحظات وعرضها وتعديلها وحذفها، مع تصميم حديث وبسيط لتعزيز سهولة الاستخدام.",
+      "images": [
+        "images/portfolio/note-app/p1.jpg",
+        "images/portfolio/note-app/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-kotlin-plain colored",
+          "name": "kotlin"
+        },
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-androidstudio-plain colored",
+          "name": "Android Studio"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "ValignIT",
+      "title": "متدرّب مطوّر أنظمة خلفية",
+      "years": "يوليو - أغسطس 2025",
+      "mainTech": [],
+      "technologies": [
+        "REST API",
+        "Java",
+        "SpringBoot",
+        "SQL",
+        "SQlite"
+      ]
+    },
+    {
+      "company": "Quantum Edge Distribution",
+      "title": "أخصائي تجربة الحلول",
+      "years": "2018.01 - 2019.09",
+      "mainTech": [],
+      "technologies": [
+        "SQL",
+        "إعداد عروض الأسعار",
+        "تحليل المناقصات",
+        "إعداد جداول الكميات (BOQ)"
+      ]
+    }
+  ]
+}
