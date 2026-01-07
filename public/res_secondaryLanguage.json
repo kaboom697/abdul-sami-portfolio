@@ -86,7 +86,7 @@
   "experience": [
     {
       "company": "ValignIT",
-      "title": "متدرّب مطوّر أنظمة خلفية",
+      "title": "متدرب تطوير الخلفية (Back-End)",
       "years": "يوليو - أغسطس 2025",
       "mainTech": [],
       "technologies": [
@@ -99,14 +99,25 @@
     },
     {
       "company": "Quantum Edge Distribution",
-      "title": "أخصائي تجربة الحلول",
-      "years": "2018.01 - 2019.09",
+      "title": "أخصائي خبرة الحلول",
+      "years": "أغسطس - سبتمبر 2025",
       "mainTech": [],
       "technologies": [
         "SQL",
-        "إعداد عروض الأسعار",
-        "تحليل المناقصات",
-        "إعداد جداول الكميات (BOQ)"
+        "Quatation creation",
+        "Tender Analysis",
+        "BOQ creation"
+      ]
+    },
+    {
+      "company": "AVR Labs",
+      "title": "مسؤول تقنية المعلومات ومطوّر",
+      "years": "يناير 2026 - حتى الآن",
+      "mainTech": [],
+      "technologies": [
+        "Product development",
+        "Server maintenance",
+        "Trouble shooting"
       ]
     }
   ]

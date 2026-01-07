@@ -101,7 +101,7 @@
       {
         "company": "Quantum Edge Distribution",
         "title": "Solutions Experience Specialist",
-        "years": "01.2018 - 09.2019",
+        "years": "Aug-Sep 2025",
         "mainTech": [  
         ],
         "technologies": [
@@ -109,6 +109,18 @@
           "Quatation creation",
           "Tender Analysis",
           "BOQ creation"
+        ]
+      },
+      {
+        "company": "AVR Labs",
+        "title": "IT Admin & Developer",
+        "years": "01.2026 - current",
+        "mainTech": [  
+        ],
+        "technologies": [
+          "Product development",
+          "Server maintenance ",
+          "Trouble shooting"
         ]
       }
     ]
